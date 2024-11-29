@@ -1,0 +1,129 @@
+Orphic’s Weather Forecast Website and Web Application Documentation 
+
+1.Project Overview
+Purpose
+The Weather Forecast Website consists of two components:
+Web Application (Admin Portal): Designed for administrators to manage the application’s data.
+Website (Regular User Portal):Offers a public platform for users to access and explore weather forecasts in Manolo Fortich.
+Key Features
+Web Application (Admin)
+ Real-time weather updates: Provides the latest weather conditions, including temperature, humidity, wind speeds, and more.
+Forecast accuracy: Displays reliable predictions for short-term and long-term weather.
+Interactive map: Allows users to visualize weather patterns and data.
+Exact Location Map: Locate the nearest evacuation centers within Manolo Fortich.
+Preparedness Guide: Provides guidance on actions to take before, during, and after a typhoon/bad weather.
+Hotline Numbers: Provides emergency hotlines for faster rescue.
+User-friendly interface: Easy to navigate and access weather information.
+Website (Regular use):
+View website’s goals and objectives
+Get to know the people behind the Website and Application’s development.
+Provides emergency hotlines for faster rescue.
+
+2. User Roles and Permissions
+Admin User (Web Application)
+Role: Manage all aspects of the application.
+Permissions:
+Create, edit, or delete user accounts 
+Assign or change roles where admins can grant or revoke roles and permissions for other users
+Security and Privacy: Monitor system activity, restore or backup data
+View and analyze usage data and have access to all the administrative tools.
+Regular User (Website)
+Role: Explore Weather Forecast 
+Permissions:
+Can access publicly available content, such as weather forecast, temperature, wind speeds and more.
+Search for a place within Manolo to get specific weather conditions.
+
+3. Application Structure
+3.1 Web Application (Admin)
+Technologies: HTML, CSS (Bootstrap), JavaScript
+Pages:
+Welcome Screen: Welcome’s you to Orphic and will navigate you through Orphic’s WebApp.
+Dashboard: 
+Home: Display up-to-date information, such as live weather updates. Where you can also see visual widgets that display maps.
+Guide: Guidance every time there will be typhoon
+About: Displays the authors. And lastly, the exit
+3.2 Website (Regular User)
+Technologies: HTML, CSS, JavaScript
+Pages: 
+Home: Company Tagline
+Goals: Orphic’s goals and objectives
+Mission: Contains Orphic’s Mission and Vision
+Insights: Contains insights and analytics, also navigates to our WebApp
+About: Meet the team
+Contact:.Where you can contact us.
+
+4. Features and functionalities
+4.1 Web Application Features (Admin)
+4.1.1 Dashboard
+  View of weather update
+  View, edit, and delete features
+  Integrate external services, such as weather map
+4.2 Website Features (Regular User)
+4.2.1 View Web Contents 
+Displays information all about ORPHIC
+Responsive and user-friendly design
+
+5. Application Flow
+5.1 Admin Workflow
+Dashboard: View recent weather information
+Add/EditContents: input and modify data
+5.2 Regular User Workflow
+Browse Contents: View public available contents
+Search and Filter: Search entries based on preference
+6. Technical Details:    
+6.1 Dependencies
+Bootstrap : For responsive design
+JavaScript: Manages dynamic content, rendering, and data export functionality        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. How to Use
+7.1 Admin Web Application
+Home
+C:\Users\jowie james\Pictures\Screenshots\Screenshot 2024-11-29 104040.png
+
+About Orphic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigate to the Admin Portal: https://or-phic.github.io/Orphic/
+Click Get Started
+To access our website just scroll down and click Know More
